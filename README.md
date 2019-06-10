@@ -16,5 +16,7 @@ This is intended as a personal reference because I'm new to Linux as a desktop O
 ## Tweaks
 ### Transparent Launcher Bar
 Either install dconf-editor and navigate to the same sections or enter into the commandline:
-~~~~gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
+~~~~
+gsettings set org.gnome.shell.extensions.dash-to-dock transparency-mode 'FIXED'
 gsettings set org.gnome.shell.extensions.dash-to-dock background-opacity 0.8
+~~~~
