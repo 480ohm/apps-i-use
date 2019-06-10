@@ -9,3 +9,6 @@ This is intended as a personal reference because I'm new to Linux as a desktop O
 ## Gaming
 * Steam
 * Lutris (sudo add-apt-repository ppa:lutris-team/lutris)
+
+## Gnome Shell Extensions
+* Dynamic Panel Transparency
